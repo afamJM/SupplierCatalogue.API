@@ -1,0 +1,15 @@
+# Ignore development environment configuration files
+.git*
+.editorconfig
+**/.vs
+**/.vscode
+**/*.md
+**/*.user
+**/*.json
+!**/stylecop.json
+!**/settings.json
+**/*.Cache
+
+# Ignore build artifacts
+**/bin
+**/obj

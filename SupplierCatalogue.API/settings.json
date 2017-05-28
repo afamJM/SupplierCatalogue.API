@@ -1,0 +1,10 @@
+﻿{
+    "datastore": {
+        "connection": "mongodb://localhost:27017",
+        "database": "hitched"
+    },
+    "documentationPath": "./bin/Debug/netcoreapp1.1/SupplierCatalogue.API.xml",
+    "clientUrls": [
+        "http://localhost:7080"
+    ]
+}
